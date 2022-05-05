@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wbv2j77/lNLxe0IXyK0vICZM5dLZWte3v0Z+bBAECabFGydqKDsqu6KQGnb1rXR6x9n4Gcoto1F3aBJiCCBZlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jefer\\DEV\\casino\\RouletteEngine\\RouletteEngine\\Roulette.Runner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jefer\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

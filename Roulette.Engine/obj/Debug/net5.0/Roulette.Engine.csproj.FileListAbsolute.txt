@@ -1,0 +1,12 @@
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\bin\Debug\net5.0\Roulette.Engine.deps.json
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\bin\Debug\net5.0\Roulette.Engine.dll
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\bin\Debug\net5.0\ref\Roulette.Engine.dll
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\bin\Debug\net5.0\Roulette.Engine.pdb
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\obj\Debug\net5.0\Roulette.Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\obj\Debug\net5.0\Roulette.Engine.AssemblyInfoInputs.cache
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\obj\Debug\net5.0\Roulette.Engine.AssemblyInfo.cs
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\obj\Debug\net5.0\Roulette.Engine.csproj.CoreCompileInputs.cache
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\obj\Debug\net5.0\Roulette.Engine.dll
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\obj\Debug\net5.0\ref\Roulette.Engine.dll
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\obj\Debug\net5.0\Roulette.Engine.pdb
+C:\Users\jefer\DEV\casino\RouletteEngine\Roulette.Engine\obj\Debug\net5.0\Roulette.Engine.csproj.AssemblyReference.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Roulette.Runner/1.0.0": {
+        "dependencies": {
+          "Roulette.Engine": "1.0.0"
+        },
+        "runtime": {
+          "Roulette.Runner.dll": {}
+        }
+      },
+      "Roulette.Engine/1.0.0": {
+        "runtime": {
+          "Roulette.Engine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Roulette.Runner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Roulette.Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
